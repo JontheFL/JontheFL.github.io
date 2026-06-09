@@ -12,10 +12,9 @@
 
 I am an engineering student specialized in the intersection of advanced physics, material sciences, and modern energy infrastructures. My academic motivation grounds itself in my deep-rooted passion for understanding the natural world, and has evolved into personal goals of being part of creating a resiliant future with decentralized systems.
 
-* **M.Sc. in Energy Systems** * *Main Degree:* **LTH (Lund University), Sweden**
-    * *Exchange Year:* **TUM (Technical University of Munich), Germany**
-* **B.Sc. in Engineering Nanotechnology**
-    * **LTH (Lund University), Sweden**
+* **M.Sc. in Energy Systems** – **LTH (Lund University), Sweden**
+    * *Exchange Year:* **TUM (Technical University of Munich), Germany** *(School of Computation, Information and Technology – CIT)*
+* **B.Sc. in Engineering Nanotechnology** – **LTH (Lund University), Sweden**
 
 ---
 
