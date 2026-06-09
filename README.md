@@ -10,7 +10,7 @@
 
 ## Education & Background
 
-I am an engineering student specialized in the intersection of advanced physics, material sciences, and modern energy infrastructures. My academic journey focuses on scaling efficient, resilient, and decentralized systems.
+I am an engineering student specialized in the intersection of advanced physics, material sciences, and modern energy infrastructures. My academic motivation grounds itself in my deep-rooted passion for understanding the natural world, and has evolved into personal goals of being part of creating a resiliant future with decentralized systems.
 
 * **M.Sc. in Energy Systems** * *Main Degree:* **LTH (Lund University), Sweden**
     * *Exchange Year:* **TUM (Technical University of Munich), Germany**
@@ -29,14 +29,11 @@ I am an engineering student specialized in the intersection of advanced physics,
 | **SystemVerilog** | Hardware description, digital logic design, and verification |
 
 ### Core Domains of Interest
-* **Decentralized Systems & Bitcoin:** Exploring the intersection of energy grids, proof-of-work, and thermodynamic anchoring of monetary protocols.
-* **Economics & Geopolitics:** Analyzing resource distribution, energy security, and global supply chains.
+* **Decentralized Systems & Bitcoin:** Exploring the intersection of energy grids, Bitcoin, load-balancing, virtual batteries, economic optimization, P2P energy trading structures and district heating.
 
 ---
 
-## 🏔️ Beyond the Lab: Sports & Exploration
-
-When I'm not writing code or analyzing energy models, you can find me pushing limits outdoors:
+## Sports I love
 
 *  **Skiing** – Technical carvers, steep lines, and backcountry touring.
 *  **Windsurfing** – Chasing high winds and open water.
@@ -54,5 +51,5 @@ When I'm not writing code or analyzing energy models, you can find me pushing li
 
 ---
 <p align="center">
-  <i>"Energy is the ultimate currency of the universe."</i>
+  <i>"If our liberal markets hate monopolies, why is the backbone just that?"</i>
 </p>
