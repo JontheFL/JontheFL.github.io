@@ -7,7 +7,7 @@
 
 ---
 
-## 🎓 Education & Background
+## Education & Background
 
 I am an engineering student specialized in the intersection of advanced physics, material sciences, and modern energy infrastructures. My academic journey focuses on scaling efficient, resilient, and decentralized systems.
 
@@ -18,7 +18,7 @@ I am an engineering student specialized in the intersection of advanced physics,
 
 ---
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 ### Programming & Data Science
 | Language / Tool | Application Focus |
@@ -37,14 +37,14 @@ I am an engineering student specialized in the intersection of advanced physics,
 
 When I'm not writing code or analyzing energy models, you can find me pushing limits outdoors:
 
-* ⛷️ **Skiing** – Technical carvers, steep lines, and backcountry touring.
-* 🏄‍♂️ **Windsurfing** – Chasing high winds and open water.
-* 🧗‍♂️ **Climbing** – Bouldering and technical sport climbing.
-* 🥾 **Hiking** – Alpine routes and high-altitude exploration.
+*  **Skiing** – Technical carvers, steep lines, and backcountry touring.
+*  **Windsurfing** – Chasing high winds and open water.
+*  **Climbing** – Bouldering and technical sport climbing.
+*  **Hiking** – Alpine routes and high-altitude exploration.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 * **Telegram:** [@JontheFL](https://t.me/JontheFL)
 * **Phone / WhatsApp:** [+46 72 448 19 69](https://wa.me/46724481969)
