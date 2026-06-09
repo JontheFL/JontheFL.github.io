@@ -22,11 +22,9 @@ I am an engineering student specialized in the intersection of advanced physics,
 ## Technical Skillset
 
 ### Programming & Data Science
-| Language / Tool | Application Focus |
-| :--- | :--- |
-| **Python** | Data analysis (`pandas`, `scipy`), Machine Learning (`PyTorch`), and scripting |
-| **Java** | Object-oriented software development and systems engineering |
-| **SystemVerilog** | Hardware description, digital logic design, and verification |
+* **Python** | Data analysis (`pandas`, `scipy`), Machine Learning (`PyTorch`)
+* **Java** | Object-oriented software development and systems engineering
+* **SystemVerilog** | Hardware description, digital logic design, and verification
 
 ### Core Domains of Interest
 * **Decentralized Systems & Bitcoin:** Exploring the intersection of energy grids, Bitcoin, load-balancing, virtual batteries, economic optimization, P2P energy trading structures and district heating.
