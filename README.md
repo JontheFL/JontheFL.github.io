@@ -1,5 +1,6 @@
 # Jonathan Fribert Lindskog
 <p align="center">
+  <a href="./CV_Jonathan_Fribert_Lindskog_2026-2.pdf"><img src="https://img.shields.io/badge/Download--CV-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
   <a href="https://www.linkedin.com/in/jonathan-fribert-lindskog-69782829b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/JontheFL"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://wa.me/46724481969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
