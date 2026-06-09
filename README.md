@@ -32,8 +32,8 @@ I am an engineering student specialized in the intersection of advanced physics,
 
 ## Sports I love
 
-*  **Skiing** – Technical carvers, steep lines, and backcountry touring.
-*  **Windsurfing** – Chasing high winds and open water.
+*  **Skiing** – Everything from pistes to back country ski touring.
+*  **Windsurfing** – Chasing high winds and open water in Stockholms archipelago.
 *  **Climbing** – Bouldering and technical sport climbing.
 *  **Hiking** – Alpine routes and high-altitude exploration.
 
