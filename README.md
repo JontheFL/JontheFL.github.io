@@ -1,4 +1,5 @@
-# Jonathan Fribert Lindskog
+# Hi, I am Jonathan, welcome to my page
+
 <p align="center">
   <a href="./CV_Jonathan_Fribert_Lindskog_2026.pdf"><img src="https://img.shields.io/badge/Download CV-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
   <a href="https://www.linkedin.com/in/jonathan-fribert-lindskog-69782829b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
