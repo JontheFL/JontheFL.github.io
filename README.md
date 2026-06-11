@@ -62,3 +62,8 @@ I have more (less relevant) work experience aswell, feel free to ask. It ranges 
 <p align="center">
   <i>"If our liberal markets hate monopolies, why is the backbone just that?"</i>
 </p>
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://jonthefl.github.io/" alt="Scan to visit portfolio" width="150" height="150" /><br>
+  <i>QR for this webpage</i>
+</p>
