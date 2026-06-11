@@ -18,7 +18,7 @@ My first masters year I spend at the Techincal University of Munich (TUM), which
 Before starting uni I worked for two years at a start-up construction company. The company worked mainly with HVAC, we renovated ventilation systems in rental complexes and built heating infrastructure for schools. It was incredibly fun and I quickly climbed to be head project manager of a €1M project outside of Stockholm at the age of 21. In my role I was responsible for on-site execution, educating new employees, hiring and firing, customer relations, material purchases and planning. I have a lot to thank my bosses for, they are austrian, Laissez-faire, goldbug libertarians, who loved to discuss economics with me. I remember starting out with "inflation good".
 I ultimately quit to travel SE Asia before pursing an engineering degree, which was ultimately my goal.
 
-I have more (less relevant) work experience aswell, feel free to ask. It ranges from sales to event-worker. My favourite is probably my dedication to selling christmas gifts as a kid. I started out at the age of 8 or 9, and developed a system I iterated on every year until the age of 15. It gave me a sense of pride knwoing that I had worked for all of my smart phones and some other gadgets. 
+I have more (less relevant) work experience aswell, feel free to ask. It ranges from sales to event-worker. My favourite is probably my dedication to selling christmas gifts as a kid. I started out at the age of 8 or 9, and developed a system I iterated on every year until the age of 15. It gave me a sense of pride knowing that I had worked for all of my smart phones and some other gadgets. 
 
 ## Education
 
