@@ -11,6 +11,7 @@
 ## Me and my motivations
 
 I am an engineering student specialized in the intersection of physics, material sciences, and modern energy infrastructures. My academic motivation grounds itself in my deep-rooted passion for understanding the natural world, and has evolved into personal goals of being part of creating a resiliant future with decentralized systems. At Lund University I study nanotech engineering, which is a degree that gives a very broad skillset, despite sounding narrow. It covers mathematics, physics, chemistry, material sciences, electronics, chip fabrication (in cleanroom environment), biology and more. Since early 2020 I have without interruption been in the Bitcoin rabbithole, and in order to bridge what I learn at uni with Bitcoin I chose to pursue a masters in Energy Systems. I am interested in utilizing mining for demand response, monetize curtailed energy (renewables or flaring), second layer protocols for P2P energy trading, and anything else Bitcoin.
+
 My first masters year I spend at the Techincal University of Munich (TUM), which offers a great range of courses on informatics and energy systems. My time here finishes at the end of July, after which I want to find a master thesis tied to Bitcoin and then ultimately find work in the space.
 
 ## Work history & christmas presents
