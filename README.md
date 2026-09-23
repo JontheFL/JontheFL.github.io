@@ -9,6 +9,12 @@
 
 ---
 
+## I am looking for a 5 month master thesis project
+* Co-allocate Bitcoin mining with datacenters for load-curve balancing
+* Co-allocate Bitcoin mining with renewable energies to optimize ROI/generation capacity planning
+* Monetize stranded energy
+* Monetize excess energy production
+
 ## Me and my motivations
 
 I am an engineering student specialized in the intersection of physics, material sciences, and modern energy infrastructures. My academic motivation grounds itself in my deep-rooted passion for understanding the natural world, and has evolved into personal goals of being part of creating a resiliant future with decentralized systems. At Lund University I study nanotech engineering, which is a degree that gives a very broad skillset, despite sounding narrow. It covers mathematics, physics, chemistry, material sciences, electronics, chip fabrication (in cleanroom environment), biology and more. Since early 2020 I have without interruption been in the Bitcoin rabbithole, and in order to bridge what I learn at uni with Bitcoin I chose to pursue a masters in Energy Systems. I am interested in utilizing mining for demand response, monetize curtailed energy (renewables or flaring), second layer protocols for P2P energy trading, and anything else Bitcoin.
@@ -34,6 +40,7 @@ I have more (less relevant) work experience aswell, feel free to ask. It ranges 
 
 ### Programming & Data Science
 * **Python**  Data analysis (`pandas`, `scipy`), Machine Learning (`PyTorch`)
+* **PowerFactory** simulate the power grid
 * **Java**  Object-oriented software development and systems engineering
 * **SystemVerilog**  Hardware description, digital logic design, and verification
 
